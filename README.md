@@ -30,7 +30,7 @@ Pour lancer le projet NestJS il faut faire la commande suivante:
 npm run start
 ```
 
-Pour appeler l'API, voici les requêtes HTTP pour les ingrédients et les recettes:
+Pour appeler l'API sur Postman par exemple, voici les requêtes HTTP pour les ingrédients et les recettes:
 
 ### Ingrédients
 
